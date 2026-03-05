@@ -1,3 +1,6 @@
+
+<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/182952b4-3001-46ef-af82-ed603b240b5a" />
+
 Challenge LiteAlura
 
 Proyecto que crea un catálogo interactivo de libros (LiterAlura) consumiendo una API externa, procesando JSON, almacenando en base de datos y ofreciendo 5+ opciones de interacción por consola.
